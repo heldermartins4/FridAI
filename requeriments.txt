@@ -1,0 +1,4 @@
+PyAudio
+SpeechRecognition
+gTTS
+wikipedia
